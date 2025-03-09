@@ -12,6 +12,8 @@
 
 **กลุ่มเป้าหมาย** : Administrative staff, Visitors  
 
+---
+
 ## **How to Use**
 
 ### **1. Visitors**
