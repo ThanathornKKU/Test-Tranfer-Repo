@@ -18,15 +18,15 @@
 
 ### **1. Visitors**
 1. เปิดเว็บเบราว์เซอร์ที่ต้องการใช้งาน  
-2. ไปที่ URL: <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ  
+2. ไปที่ URL : <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ  
 3. คลิกที่ไฮไลต์บนหน้า Home เพื่อดูรายละเอียดของไฮไลต์  
 4. คลิกที่เมนู **Highlights** บน Navigation Bar (แถบนำทาง) เพื่อดูไฮไลต์ทั้งหมด  
 5. คลิกที่ Tags เพื่อเลือกดูเฉพาะ Highlight ที่เกี่ยวข้องกับ Tag นั้น  
 
 ### **2. Administrative staff**
 1. เปิดเว็บเบราว์เซอร์ที่ต้องการใช้งาน  
-2. ไปที่ URL: <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ  
-3. คลิกที่ปุ่ม **LOGIN** หรือไปที่ URL: <https://cs04sec267.cpkkuhost.com/login>  
+2. ไปที่ URL : <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ  
+3. คลิกที่ปุ่ม **LOGIN** หรือไปที่ URL : <https://cs04sec267.cpkkuhost.com/login>  
 4. กรอก **Username** และ **Password** เพื่อเข้าสู่ระบบ จากนั้นคลิกปุ่ม **LOG IN**  
 5. เมื่อเข้าสู่ระบบแล้ว ผู้ใช้จะอยู่ที่หน้า **Dashboard**  
 6. คลิกไปที่เมนู **Manage Highlights** เพื่อจัดการไฮไลต์ของเว็บไซต์  
