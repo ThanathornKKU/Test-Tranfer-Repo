@@ -16,29 +16,19 @@
 
 1.1 เปิดเว็บเบราว์เซอร์ที่ต้องการใช้งาน  
 1.2 ไปที่ URL: <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ
-![หน้า home](../img/home_visitor.png)
 1.3 คลิกที่ไฮไลต์บนหน้า Home เพื่อดูรายละเอียดของไฮไลต์
-![หน้า highlight detail](../img/highlight_detail_visitor.png)
 1.4 คลิกที่เมนู **Highlights** บน Navigation Bar (แถบนำทาง) เพื่อดูไฮไลต์ทั้งหมด  
-![navbar หน้า home](../img/home_navbar.png)
-![หน้า highlights](../img/highlights.png)
 1.5 คลิกที่ Tags เพื่อเลือกดูเฉพาะ Highlight ที่เกี่ยวข้องกับ Tag นั้น
-![หน้า highlights คลิก tag](../img/highlights_tag.png)
 ---
 
 ### **2. Administrative staff**
 
 2.1 เปิดเว็บเบราว์เซอร์ที่ต้องการใช้งาน  
 2.2 ไปที่ URL: <https://cs04sec267.cpkkuhost.com/> เพื่อเข้าใช้งานระบบ  
-![หน้า home](../img/home_staff.png)
 2.3 คลิกที่ปุ่ม **LOGIN** หรือไปที่ URL: <https://cs04sec267.cpkkuhost.com/login>  
-![หน้า login ยังไม่กรอกข้อมูล](../img/login.png)
 2.4 กรอก **Username** และ **Password** เพื่อเข้าสู่ระบบ จากนั้นคลิกปุ่ม **LOG IN**
-![หน้า login กรอกข้อมูลแล้ว](../img/login_filled.png)
 2.5 เมื่อเข้าสู่ระบบแล้ว ผู้ใช้จะอยู่ที่หน้า **Dashboard**  
-![หน้า staff dashboard](../img/staff_dashboard.png)
 2.6 คลิกไปที่เมนู **Manage Highlights** เพื่อจัดการไฮไลต์ของเว็บไซต์  
-![หน้า staff manage highlights](../img/staff_manage_highlights.png)
 
 ---
 
@@ -46,7 +36,7 @@
 
 ### **1. การเพิ่ม Highlight**
 1.1 คลิกปุ่ม **+Create** ใต้ **Highlights** เพื่อสร้างไฮไลต์ใหม่
-![หน้า manage highlights](../img/.png)
+
 1.2 เมื่ออยู่ที่หน้า **Create Highlight** จะให้กรอกข้อมูล ได้แก่
     - **Cover Image** (ภาพปก อัปโหลดได้แค่ไฟล์นามสกุล .jpeg .png .jpg และ gif)
     - **Title** (หัวข้อ)
@@ -54,15 +44,14 @@
     - **Description** (คำอธิบาย)
     - **Addtional Link** (ลิงค์เพิ่มเติม)
     - **Related Images** (ภาพที่เกี่ยวข้อง สามารถเลือกอัปโหลดได้พร้อมกันหลายภาพ และอัปโหลดได้แค่ไฟล์นามสกุล .jpeg .png .jpg และ gif)
-![หน้า create highlight](../img/.png)
+
 1.3 คลิกปุ่ม **Save** เพื่อสร้างไฮไลต์ จากนั้น Highlight ที่สร้างเสร็จแล้วจะแสดงที่ตาราง Highlights
-![หน้า manage highlights หลังจากเพิ่มไฮไลต์](../img/.png)
+
 1.4 คลิกปุ่ม **View** (ดวงตา) ที่ช่อง Actions เพื่อดูรายละเอียดของไฮไลต์ได้
-![หน้า highlight detail](../img/.png)
 
 ### **2. การแก้ไข Highlight**
 2.1 คลิกปุ่ม **Edit** (ดินสอ) ที่ช่อง Actions ของไฮไลต์ที่ต้องการแก้ไข
-![หน้า manage highlights](../img/.png)
+
 2.2 เมื่ออยู่ที่หน้า **Edit Highlight** จะสามารถแก้ไขข้อมูล ได้แก่
     - **Cover Image** (ภาพปก อัปโหลดได้แค่ไฟล์นามสกุล .jpeg .png .jpg และ gif)
     - **Title** (หัวข้อ)
@@ -70,25 +59,29 @@
     - **Description** (คำอธิบาย)
     - **Addtional Link** (ลิงค์เพิ่มเติม)
     - **Related Images** (ภาพที่เกี่ยวข้อง สามารถเลือกอัปโหลดได้พร้อมกันหลายภาพ และอัปโหลดได้แค่ไฟล์นามสกุล .jpeg .png .jpg และ gif)
-![หน้า create highlight](../img/.png)
+
 2.3 คลิกปุ่ม **Update**
+
 2.4 คลิก"ยืนยันการอัปเดต"เพื่อเสร็จสิ้นการแก้ไขไฮไลต์
 
 
 ### **3. การลบ Highlight**
 3.1 คลิกปุ่ม **Delete** (ถังขยะ) ที่ช่อง Actions ของไฮไลต์ที่ต้องการลบ
-![หน้า manage highlights](../img/.png)
+
 3.2 คลิก"ยืนยันการลบ"เพื่อเสร็จสิ้นการลบไฮไลต์
 
 
 ### **4. การนำ Highlight ขึ้นแสดงบนหน้า Home**
 4.1 คลิกปุ่ม **ADD** ที่ช่อง Add to Highlight ของไฮไลต์บนตาราง Highlights ที่ต้องการนำไปแสดงบนหน้า Home
+
 4.2 จากนั้นไฮไลต์นั้นจะย้ายจากตาราง Highlights ไปอยู่บนตาราง Show Highlights และแสดงบนหน้า Home
+
 หมายเหตุ : ตาราง Show Highlights สามารถมีไฮไลต์ได้สูงสุด 5 ไฮไลต์ หลังจากนั้นจะไม่สามารถคลิกปุ่ม **ADD** ได้
 
 
 ### **5. การนำ Highlight ออกจากหน้า Home**
 5.1 คลิกปุ่ม **REMOVE** ที่ช่อง Remove Highlight ของไฮไลต์บนตาราง Show Highlights ที่ต้องการนำออกจากหน้า Home
+
 5.2 จากนั้นไฮไลต์นั้นจะย้ายจากตาราง Show Highlights ไปอยู่บนตาราง Highlights และไม่แสดงบนหน้า Home
 
 
@@ -98,21 +91,29 @@
 
 ### **7. การเพิ่ม Tag**
 7.1 คลิกปุ่ม **+Create** ใต้ **Tags** เพื่อสร้างแท็กใหม่
+
 7.2 เมื่ออยู่ที่ป็อบอัพ "Create Tag" จะให้กรอก **Tag Name**
+
 7.3 คลิกปุ่ม **Save** เพื่อสร้างแท็ก จากนั้น Tag ที่สร้างเสร็จแล้วจะแสดงที่ตาราง Tags
 
 
 ### **8. การแก้ไข Tag**
 8.1 คลิกปุ่ม **Edit** (ดินสอ) ที่ช่อง Actions ของแท็กที่ต้องการแก้ไข
+
 8.2 เมื่ออยู่ที่ป็อบอัพ "Edit Tag" จะสามารถแก้ไข **Tag Name** ได้
+
 8.3 คลิกปุ่ม **Update** เพื่อเสร็จสิ้นการแก้ไขแท็ก
 
 
 ### **9. การลบ Tag**
 9.1 คลิกปุ่ม **Delete** (ถังขยะ) ที่ช่อง Actions ของแท็กที่ต้องการลบ
+
 9.2 คลิก"ยืนยันการลบ"เพื่อเสร็จสิ้นการลบแท็ก
 
 
+
+
+<!-- ![หน้า home](../img/home_visitor.png) -->
 
 <!-- ### **1. Show Highlights (แสดงรายการไฮไลท์ที่แสดงบนหน้า Home)**
 
